@@ -3,3 +3,5 @@ type: module
 description: 'Allows you to limit the events recorded in DBLog'
 package: Custom
 core_version_requirement: ^10 || ^11
+dependencies:
+  - dblog
