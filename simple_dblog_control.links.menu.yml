@@ -1,0 +1,7 @@
+simple_dblog_control.settings:
+  title: 'Simple DbLog Control settings'
+  description: 'Custom settings for the Simple DbLog Control module.'
+  parent: system.admin_config_development
+  route_name: simple_dblog_control.settings
+  weight: 100
+  menu_name: administration

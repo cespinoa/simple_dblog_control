@@ -1,0 +1,7 @@
+simple_dblog_control.settings:
+  path: '/admin/config/development/simple_dblog_control'
+  defaults:
+    _title: 'Settings'
+    _form: 'Drupal\simple_dblog_control\Form\SettingsForm'
+  requirements:
+    _permission: 'administer site configuration'

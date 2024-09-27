@@ -1,0 +1,11 @@
+# Schema for the configuration files of the NotSimple DbLog Control module.
+simple_dblog_control.settings:
+  type: config_object
+  label: 'Simple DbLog Control settings'
+  mapping:
+    channels:
+      type: string
+      label: 'Channels'
+    strings:
+      type: string
+      label: 'Strings'
